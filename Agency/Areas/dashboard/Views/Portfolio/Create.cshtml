@@ -1,0 +1,15 @@
+﻿<form method = "post" enctype = "multipart/form-data" >
+    <input class ="form-control my-2" type = "text" name = "Title" />
+    <input class ="form-control my-2" type = "file" name = "NewPhoto" />
+    <input class ="form-control my-2" type = "text" name = "Description" />
+    <input class ="form-control my-2" type = "text" name = "Client" />
+    <select class ="form-control my-2" name = "Category">
+        @foreach (var category in ViewData["Categories"] as List<Category>)
+        {
+            <option>@category.Name</option>
+        }
+        
+        
+    </select>
+    <input type = "submit" value = "Create" />
+</form>

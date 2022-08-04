@@ -1,0 +1,128 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Agency
+build_property.RootNamespace = Agency
+build_property.ProjectDir = E:\Compar.Academy\csharp\Web\Agency\Agency\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Compar.Academy\csharp\Web\Agency\Agency
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Areas/dashboard/Views/Auth/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcZGFzaGJvYXJkXFZpZXdzXEF1dGhcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Areas/dashboard/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcZGFzaGJvYXJkXFZpZXdzXEF1dGhcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Areas/dashboard/Views/Auth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcZGFzaGJvYXJkXFZpZXdzXEF1dGhcUmVnaXN0ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Areas/dashboard/Views/Banner/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcZGFzaGJvYXJkXFZpZXdzXEJhbm5lclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Areas/dashboard/Views/Banner/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcZGFzaGJvYXJkXFZpZXdzXEJhbm5lclxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Areas/dashboard/Views/Banner/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcZGFzaGJvYXJkXFZpZXdzXEJhbm5lclxEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Areas/dashboard/Views/Banner/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcZGFzaGJvYXJkXFZpZXdzXEJhbm5lclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Areas/dashboard/Views/Banner/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcZGFzaGJvYXJkXFZpZXdzXEJhbm5lclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Areas/dashboard/Views/Category/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcZGFzaGJvYXJkXFZpZXdzXENhdGVnb3J5XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Areas/dashboard/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcZGFzaGJvYXJkXFZpZXdzXENhdGVnb3J5XERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Areas/dashboard/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcZGFzaGJvYXJkXFZpZXdzXENhdGVnb3J5XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Areas/dashboard/Views/Category/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcZGFzaGJvYXJkXFZpZXdzXENhdGVnb3J5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Areas/dashboard/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcZGFzaGJvYXJkXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Areas/dashboard/Views/Portfolio/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcZGFzaGJvYXJkXFZpZXdzXFBvcnRmb2xpb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Areas/dashboard/Views/Portfolio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcZGFzaGJvYXJkXFZpZXdzXFBvcnRmb2xpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Areas/dashboard/Views/Service/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcZGFzaGJvYXJkXFZpZXdzXFNlcnZpY2VcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Areas/dashboard/Views/Service/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcZGFzaGJvYXJkXFZpZXdzXFNlcnZpY2VcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Areas/dashboard/Views/Service/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcZGFzaGJvYXJkXFZpZXdzXFNlcnZpY2VcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Areas/dashboard/Views/Service/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcZGFzaGJvYXJkXFZpZXdzXFNlcnZpY2VcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Areas/dashboard/Views/Shared/_AdminLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcZGFzaGJvYXJkXFZpZXdzXFNoYXJlZFxfQWRtaW5MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Areas/dashboard/Views/Shared/_LoginLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcZGFzaGJvYXJkXFZpZXdzXFNoYXJlZFxfTG9naW5MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Areas/dashboard/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcZGFzaGJvYXJkXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Areas/dashboard/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcZGFzaGJvYXJkXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Views/Home/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Compar.Academy/csharp/Web/Agency/Agency/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 

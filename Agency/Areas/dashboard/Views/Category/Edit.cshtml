@@ -1,0 +1,14 @@
+﻿@model Category
+
+<form method="post">
+    <div class="container">
+        <div class="row">
+            <input type = "hidden" value ="@Model.Id" />
+            <div class="input-group my-2">
+                <input name="Name" id="Name" class="form-control" value = "@Model.Name" type="text" placeholder="Name" />
+            </div>
+            <input type="submit" class="btn btn-outline-success" value="Edit" />
+        </div>
+    </div>
+</form>
+
